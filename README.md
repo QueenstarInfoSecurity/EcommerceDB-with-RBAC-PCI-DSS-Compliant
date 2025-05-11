@@ -44,4 +44,11 @@ This project implements a secure SQL database schema for ecommerce applications 
 - Import `schema.sql` into your MYSQL server
 - Use included scripts to populate users and simulate transaction (Optional)
 - Call procedures like `register_customer` to test workflow
-  
+
+  ## License
+  This project is licensed under the MIT License.
+
+## Acknowledgments
+ - PCI Security Standards Council
+ - OWASP Database Secuirty Project
+ - NIST Cybersecurity Framework 
