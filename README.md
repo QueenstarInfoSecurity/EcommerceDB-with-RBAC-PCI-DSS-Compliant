@@ -45,8 +45,11 @@ This project implements a secure SQL database schema for ecommerce applications 
 - Use included scripts to populate users and simulate transaction (Optional)
 - Call procedures like `register_customer` to test workflow
 
-  ## License
-  This project is licensed under the MIT License.
+## License
+ This project is licensed under the MIT License.
+## ** Disclaimer:**
+This project is provided **as is**, without any warranties or guarantees. The author assumes **no responsibility** for any issues, damages,or legal consequences arising from the use of this content. Users should consult legal professionals before implementing any contractual or security related clauses.
+  
 
 ## Acknowledgments
  - PCI Security Standards Council
