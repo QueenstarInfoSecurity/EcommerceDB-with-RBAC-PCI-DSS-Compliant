@@ -48,7 +48,7 @@ This project implements a secure SQL database schema for ecommerce applications 
 ## License
  This project is licensed under the MIT License. 
 
-## Acknowledgments
+## Acknowledgements
  - PCI Security Standards Council
  - OWASP Database Secuirty Project
  - NIST Cybersecurity Framework 
